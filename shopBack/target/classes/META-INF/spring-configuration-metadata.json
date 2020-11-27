@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "jwt.config",
+      "type": "com.shop.shopback.config.JwtTokenConfig",
+      "sourceType": "com.shop.shopback.config.JwtTokenConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
